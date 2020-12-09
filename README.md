@@ -1,0 +1,2 @@
+# JWD-Factory
+Abstract factory
